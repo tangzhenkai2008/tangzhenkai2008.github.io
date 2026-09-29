@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "个人简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **2026年9月至今**：中国科学技术大学，信息科学技术学院，本科生
+  * 高考总分：674分（省排602名）
+  * 高中：湖南省永州市第四中学
+  * 初中：湖南省永州市李达中学
 
-Work experience
+学生工作
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **2026年9月至今**：中科大信息学院2605班，副班长
+* **2026年9月至今**：校社团管理指导委员会，委员助理
+* **2023年2月至2026年6月**：湖南省永州市第四中学，团支部书记
+* **2022年12月至2023年6月**：湖南省永州市李达中学，团支部书记
+* **2020年9月至2023年6月**：湖南省永州市李达中学，副班长
+  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+荣誉奖项
+======
+* **2025年**：全国中学生生物学联赛（湖南赛区），省级二等奖
+* **2023年**：湖南省省级三好学生
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+技能与特长
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **外语**：全国英语等级考试（PETS）二级口试合格
+* **兴趣特长**：国画、钻研数码科技、看科幻小说
 
-Publications
+个人理念
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 团结同学，热爱集体，具备丰富的学生干部工作经验。
+* 对科学技术有浓厚兴趣，乐于钻研与动手实践。
