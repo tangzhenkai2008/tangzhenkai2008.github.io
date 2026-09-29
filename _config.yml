@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "唐振凯/ 唐振凯的个人主页"
 title_separator          : "-"
 name                     : &name "唐振凯"
-description              : &description "唐振凯的个人主页，记录学习与生活"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "中国科学技术大学2026级本科生，信息科学技术学院，记录学习与生活"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://tangzhenkai2008.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,24 +23,24 @@ repository               : "tangzhenkai2008/tangzhenkai2008.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "tzk001.png"
+  name             : "唐振凯"
+  pronouns         : "His Holiness" # example: "she/her"  
+  bio              : "中科大信息学院本科生 | 全国中学生生物学联赛省二等奖 | 曾任班长、团支书，现任副班长、管指委委员助理。"
+  location         : "Hefei, China,Earth"
+  employer         : "中国红砖技术大学 信息科学技术学院"
+  uri              : "https://www.ustc.edu.cn/"# URL
+  email            : "tzk2008@mail.ustc.edu.cn" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  academia         : "404 not found"# URL
+  arxiv            : "404 not found"# URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
+  inspire-hep      : "404 not found"# URL
+  impactstory      : "404 not found"# URL
   orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
+  semantic         : "404 not found"# URL
+  ssrn             : "404 not found"# URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
