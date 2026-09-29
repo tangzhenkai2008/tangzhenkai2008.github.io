@@ -31,7 +31,10 @@ author:
   employer         : "中国红砖技术大学 信息科学技术学院"
   uri              : "https://www.ustc.edu.cn/"# URL
   email            : "tzk2008@mail.ustc.edu.cn" 
-
+  github           : "tangzhenkai2008"
+  zhihu            : "TZK."# Username
+  billbill         : "1597348734(UID)"# Username
+  steam            : "sincerity157"# Username
   # Academic websites
   academia         : "https://www.bilibili.com/"# URL
   arxiv            : "404 not found"# URL - Update with the correct link to your profile
@@ -48,7 +51,7 @@ author:
 
 
   # Repositories and software development
-  github           : "tangzhenkai2008"
+  
   bitbucket        : "404 not found"# Username - Update with your username on the site
   codepen          : "404 not found"# Username
   dribbble         : "404 not found"# Username
@@ -56,9 +59,9 @@ author:
   stackoverflow    : "404 not found"# User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  zhihu            : "TZK."# Username
-  billbill         : "1597348734(UID)"# Username
-  steam            : "sincerity157"# Username
+  
+  
+  
   bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : "404 not found"# Username
   flickr           : "404 not found"# Username
