@@ -37,52 +37,52 @@ author:
   steam            : "sincerity157"# Username
   # Academic websites
   academia         : "https://www.bilibili.com/"# URL
-  arxiv            : "404 not found"# URL - Update with the correct link to your profile
+  #arxiv            : "404 not found"# URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : "404 not found"# URL
-  impactstory      : "404 not found"# URL
+  #inspire-hep      : "404 not found"# URL
+  #impactstory      : "404 not found"# URL
   orcid            : "https://orcid.org/yourorcidurl"
   semantic         : "https://chat.deepseek.com/"# URL
-  ssrn             : "404 not found"# URL
+  #ssrn             : "404 not found"# URL
   pubmed           : "https://www.doubao.com/"
   researchgate     : "https://www.douyin.com/"# URL
-  scopus           : "404 not found"# URL
-  zotero           : "404 not found"# URL
+  #scopus           : "404 not found"# URL
+  #zotero           : "404 not found"# URL
 
 
   # Repositories and software development
   
-  bitbucket        : "404 not found"# Username - Update with your username on the site
-  codepen          : "404 not found"# Username
-  dribbble         : "404 not found"# Username
-  kaggle           : "404 not found"# Username  
-  stackoverflow    : "404 not found"# User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  # bitbucket        : "404 not found"# Username - Update with your username on the site
+  # codepen          : "404 not found"# Username
+  # dribbble         : "404 not found"# Username
+  # kaggle           : "404 not found"# Username  
+  # stackoverflow    : "404 not found"# User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   
   
   
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : "404 not found"# Username
-  flickr           : "404 not found"# Username
-  foursquare       : "404 not found"# Username
-  goodreads        : "404 not found"# Username
-  google_plus      : "404 not found"# Username
-  keybase          : "404 not found"# Username
-  instagram        : "404 not found"# Username
-  lastfm           : "404 not found"# Username
-  linkedin         : "404 not found"# Username
-  mastodon         : "404 not found"# URL
-  medium           : "404 not found"# URL
-  pinterest        : "404 not found"# Username
-  soundcloud       : "404 not found"# Username
-  telegram         : "404 not found"# URL
-  tumblr           : "404 not found"# Username
-  twitter          : "404 not found"# Username for X / Twitter
-  vine             : "404 not found"# Username
-  weibo            : "404 not found"# Username
-  wikipedia        : "404 not found"# Username
-  xing             : "404 not found"# Username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # facebook         : "404 not found"# Username
+  # flickr           : "404 not found"# Username
+  # foursquare       : "404 not found"# Username
+  # goodreads        : "404 not found"# Username
+  # google_plus      : "404 not found"# Username
+  # keybase          : "404 not found"# Username
+  # instagram        : "404 not found"# Username
+  # lastfm           : "404 not found"# Username
+  # linkedin         : "404 not found"# Username
+  # mastodon         : "404 not found"# URL
+  # medium           : "404 not found"# URL
+  # pinterest        : "404 not found"# Username
+  # soundcloud       : "404 not found"# Username
+  # telegram         : "404 not found"# URL
+  # tumblr           : "404 not found"# Username
+  # twitter          : "404 not found"# Username for X / Twitter
+  # vine             : "404 not found"# Username
+  # weibo            : "404 not found"# Username
+  # wikipedia        : "404 not found"# Username
+  # xing             : "404 not found"# Username
   youtube          : "404 not found"# Username
   
 
